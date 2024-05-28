@@ -56,8 +56,6 @@ After each pair of plots, explain what the linear regression is modeling. Descri
 
 ## Part 2: VacationPy
 
-Use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
-
 Use the Geoapify API and the geoViews Python library to create map visualizations.
 
 __Steps:__
