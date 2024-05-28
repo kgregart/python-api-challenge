@@ -19,7 +19,7 @@ For this part, you'll use the WeatherPy.ipynb Jupyter notebook provided in the s
 
 To get started, the code required to generate random geographic coordinates and the nearest city to each latitude and longitude combination is provided.
 
-__Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude__
+### Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude__
 
 To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, you'll create a series of scatter plots to showcase the following relationships:
 
@@ -31,7 +31,7 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 
   - Latitude vs. Wind Speed
 
-__Requirement 2: Compute Linear Regression for Each Relationship__
+### Requirement 2: Compute Linear Regression for Each Relationship__
 
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
 
